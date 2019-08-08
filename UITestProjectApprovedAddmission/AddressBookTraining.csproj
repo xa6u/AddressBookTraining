@@ -8,8 +8,8 @@
     <ProjectGuid>{807D90C8-BBEF-4F4C-8EA1-C67FCC44DD6F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>UITestProjectApprovedAddmission</RootNamespace>
-    <AssemblyName>UITestProjectApprovedAddmission</AssemblyName>
+    <RootNamespace>AddressBookTraining</RootNamespace>
+    <AssemblyName>AddressBookTraining</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
