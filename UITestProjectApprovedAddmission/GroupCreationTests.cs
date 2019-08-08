@@ -53,19 +53,16 @@ namespace AddressBookTrainingNamespace
 
         private void ReturnToGroupsPage()
         {
-            //Return to group page
             driver.FindElement(By.LinkText("group page")).Click();
         }
 
         private void SubmittGroupCreation()
         {
-            //Submitt group creation
             driver.FindElement(By.Name("submit")).Click();
         }
 
         private void FillGroupForm()
         {
-            //Fill group forms
             driver.FindElement(By.Name("group_name")).Clear();
             driver.FindElement(By.Name("group_name")).SendKeys("q");
             driver.FindElement(By.Name("group_header")).Clear();
@@ -76,13 +73,11 @@ namespace AddressBookTrainingNamespace
 
         private void InitGroupCreation()
         {
-            //New group creation initiation
             driver.FindElement(By.Name("new")).Click();
         }
 
         private void GoToGroupsPage()
         {
-            //Groups page navigation
             driver.FindElement(By.LinkText("groups")).Click();
         }
 
